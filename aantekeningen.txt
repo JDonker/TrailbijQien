@@ -1,0 +1,7 @@
+VCS - Git is version control service
+
+git init - maakt repository in huidige map
+git status - status van de git repository
+git add #File - voeg file toe aan repository
+git add . - voeg alles toe
+git bla
